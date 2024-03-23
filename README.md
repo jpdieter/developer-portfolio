@@ -1,57 +1,44 @@
-# DEVELOPER PORTFOLIO
+# Developer Portfolio Website
 
-A portfolio website template for campers
+![Project Banner](link-to-banner-image)
 
-![jane-doe](jane-shot.png)
+## Table of Contents
 
-## Author
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
-[@koladechris](https://www.twitter.com/koladechris)
+## About
 
-## Github repo
+This repository contains the source code for a developer portfolio website built following the tutorial on FreeCodeCamp titled ["How to Build a Developer Portfolio Website"](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/). The tutorial provides step-by-step instructions on creating a professional portfolio website using HTML, CSS, and JavaScript.
 
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
+## Features
 
-## Sample Website
+- Modern and professional design
+- Responsive layout for mobile and desktop devices
+- Sections for showcasing projects, skills, experience, and contact information
+- Smooth scrolling navigation
+- Interactive animations and effects
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+## Installation
 
-## Tech Stack
+To run the website locally, follow these steps:
 
-**Client:** HTML, CSS, Vanilla JavaSCript
+1. Clone the repository:
 
-## Tools Used
+   ```bash
+   git clone https://github.com/your_username/developer-portfolio-website.git
 
-Below are are list of tools used, and the precise things they were used for:
+## Usage
 
-- [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
-- [Drawkit](https://www.drawkit.io/) for Jane Doe illustration
-- [Icon8](https://icons8.com/) for animated icons and skills icons
-- [Animate CSS](https://animate.style/) for Jane Doe's bio text animation
-- [Formspree](https://formspree.io/) for contact form submision and straight delivery to Gmail
+Customize the website to showcase your own projects, skills, and experience by modifying the HTML, CSS, and JavaScript files provided in the repository. Refer to the tutorial for guidance on making changes and adding new content.
 
-## Folder Structure
+## License
 
-The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
-
-The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
-
-## Customization Guide
-
-The various sections in the HTML and CSS are well commented, so feel free to change whatever doesn't suit you need.
-
-The JavaScript functions are commented too, so you will know what the functions and selections do.
-
-I used Ion Icons and Icons8 for the icons, but feel free to use fontawesome or any other icon library you want.
-
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified Gmail account.
-
-In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
-
-If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris).
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Special thanks to FreeCodeCamp for providing the tutorial on building a developer portfolio website.
