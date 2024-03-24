@@ -1,6 +1,6 @@
 # Developer Portfolio Website
 
-![alt text](assets/images/Portfolio-Website.png)
+![alt text](assets/images/PortfolioWebsite.png)
 
 ## Table of Contents
 
