@@ -1,4 +1,4 @@
-# Developer Portfolio Website
+# Developer Portfolio
 
 ![alt text](assets/images/PortfolioWebsite.png)
 
