@@ -7,7 +7,6 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 
 ## About
@@ -30,10 +29,6 @@ To run the website locally, follow these steps:
 
    ```bash
    git clone https://github.com/your_username/developer-portfolio-website.git
-
-## Usage
-
-Customize the website to showcase your own projects, skills, and experience by modifying the HTML, CSS, and JavaScript files provided in the repository. Refer to the tutorial for guidance on making changes and adding new content.
 
 ## License
 
