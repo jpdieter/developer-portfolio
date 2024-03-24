@@ -11,7 +11,7 @@
 
 ## About
 
-This repository contains the source code for a developer portfolio website built following the tutorial on FreeCodeCamp titled ["How to Build a Developer Portfolio Website"](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/). The tutorial provides step-by-step instructions on creating a professional portfolio website using HTML, CSS, and JavaScript.
+FreeCodeCamp Developer Portfolio Project is a comprehensive platform designed for developers to showcase their coding projects and skills. It provides a professional space to display accomplishments, connect with potential employers, and contribute to the developer community.
 
 ## Features
 
