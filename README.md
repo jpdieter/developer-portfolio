@@ -6,7 +6,6 @@
 
 - [About](#about)
 - [Features](#features)
-- [Installation](#installation)
 - [License](#license)
 
 ## About
@@ -20,15 +19,6 @@ FreeCodeCamp Developer Portfolio Project is a comprehensive platform designed fo
 - Sections for showcasing projects, skills, experience, and contact information
 - Smooth scrolling navigation
 - Interactive animations and effects
-
-## Installation
-
-To run the website locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/developer-portfolio-website.git
 
 ## License
 
