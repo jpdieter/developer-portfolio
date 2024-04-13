@@ -1,16 +1,17 @@
 # Developer Portfolio
 
-![alt text](assets/images/PortfolioWebsite.png)
+![Portfolio Website](assets/images/PortfolioWebsite.png)
 
 ## Table of Contents
 
 - [About](#about)
 - [Features](#features)
 - [License](#license)
+- [Running it Locally](#running-it-locally)
 
 ## About
 
-FreeCodeCamp Developer Portfolio Project is a comprehensive platform designed for developers to showcase their coding projects and skills. It provides a professional space to display accomplishments, connect with potential employers, and contribute to the developer community.
+The Developer Portfolio Project is a comprehensive platform designed for developers to showcase their coding projects and skills. It provides a professional space to display accomplishments, connect with potential employers, and contribute to the developer community.
 
 ## Features
 
@@ -24,6 +25,27 @@ FreeCodeCamp Developer Portfolio Project is a comprehensive platform designed fo
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
+## Running it Locally:
 
-Special thanks to FreeCodeCamp for providing the tutorial on building a developer portfolio website.
+1. **Clone the Project:**
+
+    ```
+    git clone git@github.com:jpdieter/DeveloperPortfolio.git
+    cd DeveloperPortfolio
+    ```
+
+2. **Install Dependencies:**
+
+    ```
+    npm install
+    ```
+
+3. **Run the Application:**
+
+    ```
+    npm start
+    ```
+
+4. **Access the Application:**
+
+    - Open your web browser and navigate to `http://localhost:3000`.
